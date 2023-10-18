@@ -20,7 +20,6 @@ public class DuplicateElemenation {
 		System.out.println(s);
 
 		// Using Java8
-		input.stream().collect(Collectors.toSet()).forEach(System.out::println);
+		input.stream().collect(Collectors.toSet()).forEach(out -> System.out.print(out + " "));
 	}
-
 }
