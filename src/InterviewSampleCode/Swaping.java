@@ -1,6 +1,6 @@
 package InterviewSampleCode;
 
-public class swap2NumberAll3Approach {
+public class Swaping {
 
 	public static void main(String[] args) {
 

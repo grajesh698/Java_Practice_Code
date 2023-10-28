@@ -31,8 +31,7 @@ abstract class test {
 		return a * b;
 	}
 
-	public static int Substraction(int a, int b) {
+	public static void Substraction(int a, int b) {
 		System.out.println("Substraction : " + (a - b));
-		return 0;
 	}
 }

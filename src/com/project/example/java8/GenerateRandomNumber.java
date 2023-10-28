@@ -12,7 +12,9 @@ public class GenerateRandomNumber {
 
 		// Method 2: using forEach
 		System.out.print("Method 2: ");
-		random.ints().limit(5).forEach(s -> System.out.print(s + " "));
+		random.ints()
+			  .limit(5)
+			  .forEach(s -> System.out.print(s + " "));
 		System.out.println();
 
 		// Method 3: print random number with length 4
