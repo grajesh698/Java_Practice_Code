@@ -40,4 +40,5 @@ public class countNumberOfWordsInString {
 		long count = st.stream().count();
 		System.out.println("Count of words in string using stream: " + count);
 	}
+	
 }

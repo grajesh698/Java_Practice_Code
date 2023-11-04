@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 //Input String s = {cha3n7dra1ay9an3};
 //Output = {chandraayan1379}
 
-public class SeperateChaeAndDigitInString {
+public class SeperateCharAndDigitInString {
 	public static void main(String[] args) {
 		String s = "cha3n7dra1ay9an3";
 
