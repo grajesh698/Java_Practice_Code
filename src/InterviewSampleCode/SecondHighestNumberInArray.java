@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class secondHighestNumberInArray {
+public class SecondHighestNumberInArray {
 
 	public static void main(String[] args) {
 
