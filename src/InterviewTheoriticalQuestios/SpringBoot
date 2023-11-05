@@ -1,0 +1,34 @@
+What is Spring and SpringBoot?
+Why we choose Springboot over spring?
+Whai is Dependency Injection and how its manage?
+What are the Scope of beam, explain?
+Name the different modules of the Spring framework.
+What are some of the important SpringBoot annotations which you have used?
+What is actuator in SpringBoot?
+Mention the steps to connect DB in SpringBoot.
+What is AutoConfiguraion?
+How to change the web Server in Spring Boot?
+
+What exactely the @EnableAutoConfiguration annotaion do?
+What exactely the @ComponantScan annotaion do?
+What exactely the @Qualifier annotaion do?
+What exactely the @Value annotaion do?
+What is the difference between @SpringBootAnnoation and @EnableAutoConfiguration?
+What is the difference between @RequestMapping and @GetMapping?
+What is the difference between @Controller and  @RestController?
+
+How to use Exception Handeling in SpringBoot?
+What is Spring MVC?
+Explain the role of DispatcherServlet.
+How to integrate Spring and Hibernate Frameworks?
+Name the types of transaction management that Spring supports.
+What do you understand by Distributed Transaction?
+Can we create the now web applicayion in SpringBoot, How?
+How to connect external DB in springboot?
+What is Profile and how we use this?
+What are some JPA annotion you have used till now?
+What is RAD(Rapid application development)?
+How to load a YAML file instead of property file?
+HOw to make HTTP request through the SpringBoot?
+What is Spring Cloud?
+What problems are solved by Spring Cloud?

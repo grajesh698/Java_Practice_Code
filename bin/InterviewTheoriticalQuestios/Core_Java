@@ -1,0 +1,31 @@
+List the features of Java 8.
+Explain Optional class.
+What is Functional interface and where you have used this?
+What is is Prdicate?
+What is lambda expression?
+What is the diffeence between Predicate and Function?
+Difference between Comprator and comprable?
+What is method referance?
+What is FlatMap? Explain with example.
+Java 8 Enhancement of HashMap?
+What is ParallelStream? Explain with example.
+
+What are the main concepts of OOPs in Java?
+What are the advantage of OOPs over POPs(procedure oriented programming).
+What is the difference between abstract classes and interfaces?
+What is a marker interface?
+What is aggregation, association and composition?
+What is singleton class in Java and how can we make a class singleton?
+
+What are the differences between HashMap and HashTable in Java?
+What is Hashing Technique?
+What is equal and Hashmap in Java? Can we overirde this?
+
+Can you explain the Java thread lifecycle?
+What is synchronization and deserialization?
+What is Volatile?
+What is the difference between Callable and Runnable.
+What is Executer Service?
+Explain DeadLock situation.
+How Java garbage collerctors work?
+What is WeakHashMap and IdentityHashMap?

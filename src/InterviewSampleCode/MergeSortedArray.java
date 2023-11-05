@@ -1,4 +1,4 @@
-package LeadCodeQuestions;
+package InterviewSampleCode;
 
 import java.util.Arrays;
 
