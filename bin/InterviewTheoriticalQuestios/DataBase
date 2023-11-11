@@ -13,3 +13,6 @@ Write the query to get 8th highest sary of employee.
 Write the query to fetch alternate record from table.
 Write the query to fetch first 5 char of a string?
 Write the query to delete the duplicate row.
+write the query to find the latest loging time of employee if employee loggined more then 10 times a day.
+
+How to confire two different type of data source using JPA Hibernate?
