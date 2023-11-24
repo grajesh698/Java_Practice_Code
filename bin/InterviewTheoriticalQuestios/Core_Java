@@ -29,3 +29,31 @@ What is Executer Service?
 Explain DeadLock situation.
 How Java garbage collerctors work?
 What is WeakHashMap and IdentityHashMap?
+
+What will be the Output? Explain why?
+
+		String str1 = "core java";
+		String str2 = "core java";
+		
+		System.out.println(str1.equals(str2));   //True
+		System.out.println(str1 == str2);		 //True
+		
+		String str3 = new String("core java");
+		String str4 = new String("core java");
+		
+		System.out.println(str3.equals(str4));	 //True
+		System.out.println(str3 == str4);		 //False
+How to make a class singelton?
+	Answer:
+		public class Singelton{
+		public static Singelton instanceOfClass;
+		
+		private Singelton(){
+		}
+		public static Singelton getInstance(){
+			if(instanceOfClass == null){
+				instanceOfClass = new Singelton();
+			}
+			return instanceOfClass;
+			}
+		}
