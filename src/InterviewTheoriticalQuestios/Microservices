@@ -11,3 +11,5 @@ What is the role of Web, RESTful APIs in Microservices?
 What is the difference between Mock or Stub?
 What do you mean by CI and CD?
 How Circuit breaker desing Pattern work?
+
+When one of the microservice get down and there are 1000 request are in queue, how you will not lose the data?

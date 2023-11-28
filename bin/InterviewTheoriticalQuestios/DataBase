@@ -19,3 +19,4 @@ write the query to find the name of the author who has written more then 10 book
 		select author from BookAuthor group by author having count(dist bookname>10);
 
 How to confire two different type of data source using JPA Hibernate?
+What is composite key in sql?
