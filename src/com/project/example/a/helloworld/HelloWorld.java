@@ -1,4 +1,4 @@
-package TestHelloWorld;
+package com.project.example.a.helloworld;
 
 public class HelloWorld {
 
